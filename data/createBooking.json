@@ -1,0 +1,11 @@
+{
+  "firstname": "John",
+  "lastname": "Doe",
+  "totalprice": 123,
+  "depositpaid": true,
+  "bookingdates": {
+    "checkin": "2026-05-06",
+    "checkout": "2026-05-10"
+  },
+  "additionalneeds": "Breakfast"
+}

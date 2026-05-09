@@ -1,0 +1,11 @@
+{
+  "firstname": "",
+  "lastname": 123,
+  "totalprice": "abc",
+  "depositpaid": "yes",
+  "bookingdates": {
+    "checkin": "invalid-date",
+    "checkout": "2026-05-10"
+  },
+  "additionalneeds": 123
+}
