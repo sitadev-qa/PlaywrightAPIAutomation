@@ -1,0 +1,6 @@
+firstname,lastname,totalprice,depositpaid,checkin,checkout,additionalneeds
+John,Doe,150,true,2026-05-20,2026-05-25,Breakfast
+Jane,Smith,200,false,2026-06-01,2026-06-05,Lunch
+Alice,Brown,120,true,2026-07-10,2026-07-15,None
+Bob,White,180,false,2026-08-12,2026-08-18,Dinner
+Charlie,Black,220,true,2026-09-05,2026-09-10,Extra pillow
