@@ -1,0 +1,6 @@
+scenario,firstname,lastname,email,amount,currency,status
+standard_order,John,Doe,john.doe@test.com,100.00,USD,CREATED
+premium_order,Jane,Smith,jane.smith@test.com,500.00,USD,CREATED
+international_order,Jose,Garcia,jose.garcia@test.com,200.00,EUR,CREATED
+minimum_order,Alice,Brown,alice.brown@test.com,0.01,USD,CREATED
+maximum_order,Bob,White,bob.white@test.com,9999.99,USD,CREATED

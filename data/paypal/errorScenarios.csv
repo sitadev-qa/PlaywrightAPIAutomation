@@ -1,0 +1,9 @@
+scenario,endpoint,expectedStatus,description
+invalid_order_id,/v1/checkout/orders/INVALID-ID,404,Order Not Found
+missing_amount,/v1/checkout/orders,400,Missing Required Amount
+invalid_currency,/v1/checkout/orders,400,Invalid Currency Code
+missing_intent,/v1/checkout/orders,400,Missing Intent Field
+invalid_credentials,/v1/oauth2/token,401,Invalid Client Credentials
+rate_limit_test,/v1/checkout/orders,429,Rate Limit Exceeded
+malformed_json,/v1/checkout/orders,400,Malformed JSON Body
+unauthorized_token,/v1/checkout/orders,401,Unauthorized - Invalid Token

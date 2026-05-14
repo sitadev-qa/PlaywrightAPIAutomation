@@ -1,0 +1,8 @@
+amount,currency,description,intent,paymentMethod
+100.00,USD,Basic Test Order,CAPTURE,paypal
+250.50,USD,Standard Order,CAPTURE,paypal
+1000.00,EUR,Large Order,CAPTURE,paypal
+49.99,USD,Small Purchase,CAPTURE,paypal
+9999.99,USD,Maximum Amount,CAPTURE,paypal
+150.00,GBP,UK Purchase,CAPTURE,paypal
+500.00,USD,Authorization Test,AUTHORIZE,paypal
